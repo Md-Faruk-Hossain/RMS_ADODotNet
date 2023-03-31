@@ -1,0 +1,178 @@
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe.config
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.pdb
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Properties.Resources.resources
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.exe
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.pdb
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpDesignation.resources
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.MainWindows.resources
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.exe.config
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CopyComplete
+C:\Users\User\source\repos\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Employees.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe.config
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.pdb
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpDesignation.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Employees.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.MainWindows.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.exe
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.pdb
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpViewAll.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpUpdate.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe.config
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.pdb
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.dll
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.xml
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.AssemblyReference.cache
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.exe.config
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpDesignation.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Employees.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpUpdate.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpViewAll.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodMenu.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.MainWindows.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Properties.Resources.resources
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.GenerateResource.cache
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CoreCompileInputs.cache
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CopyComplete
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.exe
+H:\Project all\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.pdb
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodMenu.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodDetails.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodDetailsView.resources
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\linq2db.dll
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\linq2db.xml
+C:\Users\User\OneDrive\Desktop\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodDetailsUpdate.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe.config
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.exe
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\RestaurantManagmantSystem.pdb
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\linq2db.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.dll
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\linq2db.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Buffers.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Memory.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Numerics.Vectors.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Encodings.Web.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Text.Json.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\bin\Debug\System.ValueTuple.xml
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.AssemblyReference.cache
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.SuggestedBindingRedirects.cache
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpDesignation.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Employees.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpUpdate.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.EmpViewAll.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodDetails.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodDetailsUpdate.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodDetailsView.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.FoodMenu.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.MainWindows.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.Properties.Resources.resources
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.GenerateResource.cache
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CoreCompileInputs.cache
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.csproj.CopyComplete
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.exe
+H:\M_05_XML\Restaurant_Management_System_Solution\RestaurantManagmantSystem(RMS)\RestaurantManagmantSystem\obj\Debug\RestaurantManagmantSystem.pdb
